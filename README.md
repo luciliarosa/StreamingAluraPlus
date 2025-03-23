@@ -8,7 +8,7 @@ Este é um projeto de uma página sobre a **Alura**, uma plataforma de cursos on
 
 ## 🚀 Funcionalidades  
 - Página informativa sobre a plataforma **Alura Plus**  
-- Design responsivo e estilizado com CSS  
+- Design estilizado com CSS  
 
 ## 📂 Como Clonar o Repositório  
 1. Abra o terminal e execute:  
