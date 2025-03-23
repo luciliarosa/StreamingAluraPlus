@@ -161,3 +161,47 @@ body {
 .container__botao1:hover {
     background-color: var(--botao-azul-efeito);
 }
+
+@media (max-width: 1200px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        text-align: center;
+    }
+
+    .container__caixa {
+        margin: 0 2em;
+    }
+
+    .container__titulo {
+        font-size: 24px;
+    }
+
+    .secundario, 
+    .terceario {
+        margin: 0 2em;
+    }
+
+    .descricao__titulo {
+        font-size: 36px;
+    }
+
+    .dispositivo__lista {
+        flex-direction: column;
+        gap: 1em;
+    }
+
+    .lista__item {
+        font-size: 24px;
+    }
+
+    .rodape {
+        margin: 3em 1em;
+    }
+
+    .rodape__lista {
+        flex-direction: column;
+        gap: 0.5em;
+    }
+}
